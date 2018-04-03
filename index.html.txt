@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>New website</title>
+	<link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link href="https://fonts.googleapis.com/css?family=Krona+One|Montserrat|Open+Sans" rel="stylesheet"> 
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+	<header>
+	<nav class="container clearfix">
+		<img src="//placehold.it/150x30">
+		<ul>
+			<li><a href="#">Home</a></li>
+			<li><a href="#">Oferta</a></li>
+			<li><a href="#">Contacto</a></li>
+		</ul>
+	</nav>
+	</header>
+	<section class="hero">
+			<div class="slogan">
+				<h1>Viajar es la única cosa que pagas y te hace más rico</h1>
+
+			</div>
+	</section>	
+	<section class="icon-container">
+		<div class="row">
+			<div class="col-4 col-m-4 col-s-12">
+			<div class="inter-container">
+         		<i class="fas fa-laptop"></i>
+				
+			</div>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus consequat neque lacus, sit amet lobortis ligula suscipit vitae.</p>
+			</div>
+			<div class="col-4 col-m-4 col-s-12">
+			<div class="inter-container">
+          		<i class="fas fa-cut"></i>
+        		
+        	</div>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus consequat neque lacus, sit amet lobortis ligula suscipit vitae.</p>
+			</div>
+			<div class="col-4 col-m-4 col-s-12">
+			<div class="inter-container">
+          		<i class="fas fa-handshake"></i>
+             		
+             </div>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus consequat neque lacus, sit amet lobortis ligula suscipit vitae.</p>
+			</div>
+		</div>
+	</section>
+	<section class="container">
+		<h1>Trabajos realizados</h1>
+		<p>Donec venenatis, turpis vel hendrerit interdum, dui ligula ultricies purus, sed posuere libero dui id orci. Nam congue, pede vitae dapibus aliquet, elit magna vulputate arcu.</p>
+	</section>
+	<section class="gallery">
+		<div class="row">
+			<div class="col-2 col-m-6 col-s-12">
+				<div class="layer">
+					<i class="fa fa-camera-retro fa-lg"></i>
+					<i class="fa fa-search fa-lg"></i>
+				</div>
+				<img class="object-fit_cover" src="https://images.pexels.com/photos/267951/pexels-photo-267951.jpeg?h=350&auto=compress&cs=tinysrgb">
+			</div>
+			<div class="col-2 col-m-6 col-s-12 ">
+				<div class="layer">
+					<i class="fa fa-camera-retro fa-lg"></i>
+					<i class="fa fa-search fa-lg"></i>
+				</div>
+				<img class="object-fit_cover" src="https://res.cloudinary.com/twenty20/private_images/t_watermark-criss-cross-10/v1474514822000/photosp/84033e93-e8f4-4c96-a104-b27ccf44f09e/stock-photo-window-colorful-spring-fresh-color-argentina-windows-springtime-primavera-84033e93-e8f4-4c96-a104-b27ccf44f09e.jpg">
+			</div>
+			<div class="col-2 col-m-6 col-s-12">
+				<div class="layer">
+					<i class="fa fa-camera-retro fa-lg"></i>
+					<i class="fa fa-search fa-lg"></i>
+				</div>
+				<img class="object-fit_cover" src="https://images.pexels.com/photos/50631/pexels-photo-50631.jpeg?h=350&auto=compress&cs=tinysrgb">
+			</div>
+			<div class="col-2 col-m-6 col-s-12">
+				<div class="layer">
+					<i class="fa fa-camera-retro fa-lg"></i>
+					<i class="fa fa-search fa-lg"></i>
+				</div>
+				<img class="object-fit_cover" src="https://images.pexels.com/photos/587845/pexels-photo-587845.jpeg?h=350&auto=compress&cs=tinysrgb">
+			</div>
+			<div class="col-2 col-m-6 col-s-12">
+				<div class="layer">
+					<i class="fa fa-camera-retro fa-lg"></i>
+					<i class="fa fa-search fa-lg"></i>
+				</div>
+				<img class="object-fit_cover" src="https://images.pexels.com/photos/543224/pexels-photo-543224.jpeg?h=350&auto=compress&cs=tinysrgb">
+			</div>
+			<div class="col-2 col-m-6 col-s-12">
+				<div class="layer">
+					<i class="fa fa-camera-retro fa-lg"></i>
+					<i class="fa fa-search fa-lg"></i>
+				</div>
+				<img class="object-fit_cover" src="https://images.pexels.com/photos/161276/moscow-cathedral-mosque-prospekt-mira-ramadan-sky-161276.jpeg?h=350&auto=compress&cs=tinysrgb">
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-2 col-m-6 col-s-12">
+				<div class="layer">
+					<i class="fa fa-camera-retro fa-lg"></i>
+					<i class="fa fa-search fa-lg"></i>
+				</div>
+				<img class="object-fit_cover" src="https://res.cloudinary.com/twenty20/private_images/t_watermark-criss-cross-10/v1506256751000/photosp/d24eed79-b9ad-4332-b20d-b8233fdcd6c5/stock-photo-city-tram-portugal-lisbon-lisboa-d24eed79-b9ad-4332-b20d-b8233fdcd6c5.jpg">
+			</div>
+			<div class="col-2 col-m-6 col-s-12">
+				<div class="layer">
+					<i class="fa fa-camera-retro fa-lg"></i>
+					<i class="fa fa-search fa-lg"></i>
+				</div>
+				<img class="object-fit_cover" src="https://images.pexels.com/photos/10922/pexels-photo-10922.jpeg?h=350&auto=compress&cs=tinysrgb">
+			</div>
+			<div class="col-2 col-m-6 col-s-12">
+				<div class="layer">
+					<i class="fa fa-camera-retro fa-lg"></i>
+					<i class="fa fa-search fa-lg"></i>
+				</div>
+				<img class="object-fit_cover" src="https://images.pexels.com/photos/705424/pexels-photo-705424.jpeg?h=350&auto=compress&cs=tinysrgb">
+			</div>
+			<div class="col-2 col-m-6 col-s-12">
+				<div class="layer">
+					<i class="fa fa-camera-retro fa-lg"></i>
+					<i class="fa fa-search fa-lg"></i>
+				</div>
+				<img class="object-fit_cover" src="https://images.pexels.com/photos/14621/Warsaw-at-night-free-license-CC0.jpg?h=350&auto=compress&cs=tinysrgb">
+			</div>
+			<div class="col-2 col-m-6 col-s-12">
+				<div class="layer">
+					<i class="fa fa-camera-retro fa-lg"></i>
+					<i class="fa fa-search fa-lg"></i>
+				</div>
+				<img class="object-fit_cover" src="https://images.pexels.com/photos/378570/pexels-photo-378570.jpeg?h=350&auto=compress&cs=tinysrgb">
+			</div>
+			<div class="col-2 col-m-6 col-s-12">
+				<div class="layer">
+					<i class="fa fa-camera-retro fa-lg"></i>
+					<i class="fa fa-search fa-lg"></i>
+				</div>
+				<img class="object-fit_cover" src="https://images.pexels.com/photos/7653/pexels-photo.jpeg?h=350&auto=compress&cs=tinysrgb">
+			</div>
+		</div>
+	</section>
+	<section class="team">
+		<div class="row">
+			<div class="col-3 col-m-6 col-s-12">
+			<div class="inter">
+				<img src="https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb">
+				<p>Sales Director</p>
+			</div>
+				<h2>Alberto Ruiz</h2>				
+			</div>	
+			<div class="col-3 col-m-6 col-s-12">
+			<div class="inter">
+				<img src="https://images.pexels.com/photos/7025/summer-darling-thatsdarling.jpg?h=350&auto=compress&cs=tinysrgb">
+				<p>PR Manager</p>
+			</div>
+				<h2>Inez Blanco</h2>
+			</div>
+			<div class="col-3 col-m-6 col-s-12">
+			<div class="inter">
+				<img src="https://images.pexels.com/photos/819115/pexels-photo-819115.jpeg?h=350&auto=compress&cs=tinysrgb">
+				<p>CSR Manager</p>
+			</div>
+				<h2>Cris Sanchez</h2>	
+			</div>
+			<div class="col-3 col-m-6 col-s-12">
+			<div class="inter">
+				<img src="https://images.pexels.com/photos/213117/pexels-photo-213117.jpeg?h=350&auto=compress&cs=tinysrgb">
+				<p>UX Designer</p>
+			</div>
+				<h2>Carlos Vives</h2>	
+			</div>
+		</div>
+	</section>
+	<section class="box">
+		<section class="container">
+			<div class="row">
+				<div class="col-4 col-m-4 col-s-12">
+				<img src="https://images.unsplash.com/photo-1516235328748-f58ef03d0aad?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=332d1ced1c5cb80105268fb90988dcb7&auto=format&fit=crop&w=500&q=60">
+				</div>
+			<div class="col-8 col-m-8 col-s-12">
+							<div class="row">
+								<div class="title">
+									<h1>El mundo a un click</h1>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-8 col-m-8 col-s-12">
+									<p class="text-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a luctus metus, ut eleifend nunc. Donec maximus, augue vel lacinia dapibus, sapien tellus rutrum erat, vitae tristique nibh metus quis ante.</p>
+								</div>
+								<div class="col-4 col-m-4 col-s-12">
+									<p class="text-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a luctus metus, ut eleifend nunc.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>	
+		</section>
+	</section>
+	<section class="container numbers">
+			 <div class="row">
+			 	<div class="col-3 col-m-6 col-s-12">
+			 		<h1>000</h1>
+			 		<p>nada</p>
+			 	</div>
+			 	<div class="col-3 col-m-6 col-s-12">
+			 		<h1>000</h1>
+			 		<p>nada</p>
+			 	</div>
+			 	<div class="col-3 col-m-6 col-s-12">
+			 		<h1>000</h1>
+			 		<p>nada</p>
+			 	</div>
+			 	<div class="col-3 col-m-6 col-s-12">
+			 		<h1>000</h1>
+			 		<p>nada</p>
+			 	</div>
+			 </div>
+	</section>
+	<footer>
+		<section class="container">
+		<div class="row footer-info">
+			<div class="col-4 col-m-4 col-s-12">
+				<h2>Conócenos</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a luctus metus, ut eleifend nunc. Donec maximus, augue vel lacinia dapibus, sapien tellus rutrum erat, vitae tristique nibh metus quis ante.</p>
+			</div>
+			<div class="col-4 col-m-4 col-s-12">
+				<h2>Contacto</h2>
+				<div class="row">
+					<div class="col-4 col-m-4 col-s-4">
+						<p>Dirección:</p>
+					</div>
+					<div class="col-8 col-m-8 col-s-8">
+						<p>c/Alcala, 28 014 Madrid</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-4 col-m-4 col-s-4">
+						<p>Teléfono:</p>
+					</div>
+					<div class="col-8 col-m-8 col-s-8">
+						<p>+34 91 213 11 02</br>
+						+34 91 213 11 03  - Fax</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-4 col-m-4 col-s-4">
+						<p>Email:</p>
+					</div>
+					<div class="col-8 col-m-8 col-s-8">
+						<p>cliente@viajes.es</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-4 col-m-4 col-s-12">
+				<h2>Social media</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+				<i class="fab fa-facebook"></i>
+				<i class="fab fa-google-plus"></i>
+				<i class="fab fa-twitter"></i>
+				<i class="fab fa-instagram"></i>
+				<i class="fab fa-youtube"></i>
+			</div>
+		</div>
+		</section>
+		<section class="copyright">
+			<p>Copyrights 2019</p>
+		</section>
+	</footer>
+
+	
+</body>
+</html>
