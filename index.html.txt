@@ -272,6 +272,6 @@
 		</section>
 	</footer>
 
-	
+	<p> Add a new paragraph</p>
 </body>
 </html>
