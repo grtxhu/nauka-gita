@@ -2,13 +2,13 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Final website</title>
+	<title>My website</title>
 	<link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<link href="https://fonts.googleapis.com/css?family=Krona+One|Montserrat|Open+Sans" rel="stylesheet"> 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<body>
+<body class="container">
 	<header>
 	<nav class="container clearfix">
 		<img src="//placehold.it/150x30">
@@ -21,7 +21,11 @@
 	</header>
 	<section class="hero">
 			<div>
-				<h1 class=slogan>Viajar es la única cosa que pagas y te hace más rico</h1>
+<<<<<<< HEAD
+				<h1 class="slogan">Viajar es la única cosa que pagas y te hace más rico</h1>
+=======
+				<h1 class="slogan">Viajar es la única cosa que pagas y te hace más rico</h1>
+>>>>>>> devKasia
 
 			</div>
 	</section>	
