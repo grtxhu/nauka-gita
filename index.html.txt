@@ -20,8 +20,8 @@
 	</nav>
 	</header>
 	<section class="hero">
-			<div class="slogan">
-				<h1>Viajar es la única cosa que pagas y te hace más rico</h1>
+			<div>
+				<h1 class=slogan>Viajar es la única cosa que pagas y te hace más rico</h1>
 
 			</div>
 	</section>	
