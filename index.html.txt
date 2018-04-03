@@ -2,13 +2,13 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>New website</title>
+	<title>Final website</title>
 	<link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<link href="https://fonts.googleapis.com/css?family=Krona+One|Montserrat|Open+Sans" rel="stylesheet"> 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<body>
+<body class="container">
 	<header>
 	<nav class="container clearfix">
 		<img src="//placehold.it/150x30">
@@ -21,7 +21,7 @@
 	</header>
 	<section class="hero">
 			<div>
-				<h1 class=slogan>Viajar es la única cosa que pagas y te hace más rico</h1>
+				<h1 class="slogan">Viajar es la única cosa que pagas y te hace más rico</h1>
 
 			</div>
 	</section>	
@@ -151,28 +151,28 @@
 				<img src="https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb">
 				<p>Sales Director</p>
 			</div>
-				<h2>Alberto Ruiz</h2>				
+				<h2>Alberto Rana</h2>				
 			</div>	
 			<div class="col-3 col-m-6 col-s-12">
 			<div class="inter">
 				<img src="https://images.pexels.com/photos/7025/summer-darling-thatsdarling.jpg?h=350&auto=compress&cs=tinysrgb">
 				<p>PR Manager</p>
 			</div>
-				<h2>Inez Blanco</h2>
+				<h2>Inez Blas</h2>
 			</div>
 			<div class="col-3 col-m-6 col-s-12">
 			<div class="inter">
 				<img src="https://images.pexels.com/photos/819115/pexels-photo-819115.jpeg?h=350&auto=compress&cs=tinysrgb">
 				<p>CSR Manager</p>
 			</div>
-				<h2>Cris Sanchez</h2>	
+				<h2>Cris Suarez</h2>	
 			</div>
 			<div class="col-3 col-m-6 col-s-12">
 			<div class="inter">
 				<img src="https://images.pexels.com/photos/213117/pexels-photo-213117.jpeg?h=350&auto=compress&cs=tinysrgb">
 				<p>UX Designer</p>
 			</div>
-				<h2>Carlos Vives</h2>	
+				<h2>Carlos Puerta</h2>	
 			</div>
 		</div>
 	</section>
